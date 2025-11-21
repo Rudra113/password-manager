@@ -1,0 +1,22 @@
+import React from "react";
+
+const Footer = () => {
+  return (
+    <>
+      <div className="text-white bg-slate-900 flex flex-col justify-center items-center  w-full">
+        <div className="logo font-bold text-2xl">
+          <span className="text-green-700">&lt;</span>
+          <span>Pass</span>
+          <span className="text-green-700">OP/&gt;</span>
+        </div>
+
+        <div className="flex justify-center ">
+          Created with <img className="h-8 invert " src="heart.avif" alt="" />{" "}
+          by CodeWithHarry.
+        </div>
+      </div>
+    </>
+  );
+};
+
+export default Footer;
