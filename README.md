@@ -6,7 +6,8 @@ PassOP (Password Operations) is a full-stack, secure, and intuitive password man
 
 You can access the live version of this project hosted on GitHub Pages:
 
-**[Visit PassOP Live Site](https://rudra113.github.io/password-manager/)**
+**[Visit PassOP Live Site](https://passop-manager.netlify.app/)**
+* ps:- This is not yet responsive for smaller devices
 
 ## ✨ Features
 
